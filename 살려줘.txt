@@ -1,0 +1,4 @@
+1. 해당 파일은 같은 공간에 있어야 한다. (C안에 따로 위치를 만들어 주는걸 추천)
+2. Spyder를 사용하여 만들었으며 파이썬
+3. TensorFlow , keras , OpenCV 설치 필수. <-안그러면 오류나온다.
+4. 지금 조진거는 ImageDataGenerator이다.
